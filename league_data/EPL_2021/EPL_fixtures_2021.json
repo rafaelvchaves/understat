@@ -1,1 +1,3422 @@
-[{"gw": 1, "home_team": "Brentford", "away_team": "Arsenal", "home_xG": "1.88818", "away_xG": "1.02385", "home_xP": 2.1154, "away_xP": 0.6559}, {"gw": 1, "home_team": "Manchester United", "away_team": "Leeds", "home_xG": "1.64248", "away_xG": "0.568342", "home_xP": 2.2181, "away_xP": 0.5492}, {"gw": 1, "home_team": "Burnley", "away_team": "Brighton", "home_xG": "1.79548", "away_xG": "1.6853", "home_xP": 1.4559000000000002, "away_xP": 1.2564000000000002}, {"gw": 1, "home_team": "Chelsea", "away_team": "Crystal Palace", "home_xG": "1.18709", "away_xG": "0.321701", "home_xP": 2.2037, "away_xP": 0.5141}, {"gw": 1, "home_team": "Everton", "away_team": "Southampton", "home_xG": "2.38863", "away_xG": "0.580601", "home_xP": 2.6311, "away_xP": 0.2455}, {"gw": 1, "home_team": "Leicester", "away_team": "Wolverhampton Wanderers", "home_xG": "0.668082", "away_xG": "1.32714", "home_xP": 0.7799, "away_xP": 1.9451}, {"gw": 1, "home_team": "Watford", "away_team": "Aston Villa", "home_xG": "1.35036", "away_xG": "1.13718", "home_xP": 1.4836, "away_xP": 1.1959}, {"gw": 1, "home_team": "Norwich", "away_team": "Liverpool", "home_xG": "1.3333", "away_xG": "1.78728", "home_xP": 1.0334999999999999, "away_xP": 1.7064}, {"gw": 1, "home_team": "Newcastle United", "away_team": "West Ham", "home_xG": "1.67926", "away_xG": "3.00939", "home_xP": 0.5491, "away_xP": 2.2684}, {"gw": 1, "home_team": "Tottenham", "away_team": "Manchester City", "home_xG": "1.06014", "away_xG": "2.10585", "home_xP": 0.6512, "away_xP": 2.1266000000000003}, {"gw": 2, "home_team": "Liverpool", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Aston Villa", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Crystal Palace", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Leeds", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Manchester City", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Brighton", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Southampton", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Wolverhampton Wanderers", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "Arsenal", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 2, "home_team": "West Ham", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Manchester City", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Aston Villa", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Brighton", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Newcastle United", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Norwich", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "West Ham", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Liverpool", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Burnley", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Tottenham", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 3, "home_team": "Wolverhampton Wanderers", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Crystal Palace", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Arsenal", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Brentford", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Leicester", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Manchester United", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Southampton", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Watford", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Chelsea", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Leeds", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 4, "home_team": "Everton", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Newcastle United", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Wolverhampton Wanderers", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Burnley", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Liverpool", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Manchester City", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Norwich", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Aston Villa", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Brighton", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "West Ham", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 5, "home_team": "Tottenham", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Chelsea", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Everton", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Leeds", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Leicester", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Manchester United", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Watford", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Brentford", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Southampton", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Arsenal", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 6, "home_team": "Crystal Palace", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Manchester United", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Burnley", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Chelsea", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Leeds", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Tottenham", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Wolverhampton Wanderers", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Brighton", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Crystal Palace", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "West Ham", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 7, "home_team": "Liverpool", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Watford", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Aston Villa", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Leicester", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Manchester City", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Norwich", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Southampton", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Brentford", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Everton", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Newcastle United", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 8, "home_team": "Arsenal", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Arsenal", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Chelsea", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Crystal Palace", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Everton", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Leeds", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Southampton", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Brighton", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Brentford", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "West Ham", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 9, "home_team": "Manchester United", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Leicester", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Burnley", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Liverpool", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Manchester City", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Newcastle United", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Watford", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Tottenham", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Norwich", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Aston Villa", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 10, "home_team": "Wolverhampton Wanderers", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Arsenal", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Brentford", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Brighton", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Chelsea", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Crystal Palace", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Everton", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Leeds", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Manchester United", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "Southampton", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 11, "home_team": "West Ham", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Aston Villa", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Burnley", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Leicester", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Liverpool", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Manchester City", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Newcastle United", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Norwich", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Tottenham", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Watford", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 12, "home_team": "Wolverhampton Wanderers", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Arsenal", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Brentford", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Brighton", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Burnley", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Chelsea", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Crystal Palace", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Leicester", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Liverpool", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Manchester City", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 13, "home_team": "Norwich", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Aston Villa", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Everton", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Leeds", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Watford", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "West Ham", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Wolverhampton Wanderers", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Manchester United", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Newcastle United", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Southampton", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 14, "home_team": "Tottenham", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Aston Villa", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Everton", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Leeds", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Manchester United", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Newcastle United", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Southampton", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Tottenham", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Watford", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "West Ham", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 15, "home_team": "Wolverhampton Wanderers", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Arsenal", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Brentford", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Brighton", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Burnley", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Chelsea", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Crystal Palace", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Leicester", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Liverpool", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Manchester City", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 16, "home_team": "Norwich", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Arsenal", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Brentford", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Brighton", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Burnley", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Leicester", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Norwich", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Crystal Palace", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Chelsea", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Liverpool", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 17, "home_team": "Manchester City", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Aston Villa", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Everton", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Leeds", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Manchester United", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Newcastle United", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Southampton", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Tottenham", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Watford", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "West Ham", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 18, "home_team": "Wolverhampton Wanderers", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Aston Villa", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Brighton", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Burnley", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Liverpool", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Manchester City", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Newcastle United", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Norwich", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Tottenham", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "West Ham", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 19, "home_team": "Wolverhampton Wanderers", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Arsenal", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Brentford", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Chelsea", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Crystal Palace", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Everton", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Leeds", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Leicester", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Manchester United", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Southampton", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 20, "home_team": "Watford", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Arsenal", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Brentford", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Chelsea", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Crystal Palace", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Everton", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Leeds", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Leicester", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Manchester United", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Southampton", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 21, "home_team": "Watford", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Aston Villa", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Brighton", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Burnley", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Liverpool", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Manchester City", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Newcastle United", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Norwich", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Tottenham", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "West Ham", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 22, "home_team": "Wolverhampton Wanderers", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Arsenal", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Brentford", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Chelsea", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Crystal Palace", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Everton", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Leeds", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Leicester", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Manchester United", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Southampton", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 23, "home_team": "Watford", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Aston Villa", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Brighton", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Burnley", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Norwich", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "West Ham", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Wolverhampton Wanderers", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Newcastle United", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Tottenham", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Liverpool", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 24, "home_team": "Manchester City", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Brentford", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Burnley", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Chelsea", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Everton", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Leicester", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Manchester United", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Newcastle United", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Norwich", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Tottenham", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 25, "home_team": "Watford", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Arsenal", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Aston Villa", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Brighton", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Crystal Palace", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Leeds", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Liverpool", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Manchester City", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Southampton", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "West Ham", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 26, "home_team": "Wolverhampton Wanderers", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Arsenal", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Brentford", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Brighton", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Chelsea", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Crystal Palace", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Everton", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Leeds", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Manchester United", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "Southampton", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 27, "home_team": "West Ham", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Aston Villa", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Burnley", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Leicester", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Liverpool", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Manchester City", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Newcastle United", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Norwich", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Tottenham", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Watford", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 28, "home_team": "Wolverhampton Wanderers", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Arsenal", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Brentford", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Brighton", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Chelsea", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Crystal Palace", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Everton", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Leeds", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Manchester United", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "Southampton", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 29, "home_team": "West Ham", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Aston Villa", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Burnley", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Leicester", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Liverpool", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Manchester City", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Newcastle United", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Norwich", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Tottenham", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Watford", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 30, "home_team": "Wolverhampton Wanderers", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Brighton", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Burnley", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Chelsea", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Crystal Palace", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Leeds", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Liverpool", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Manchester United", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Tottenham", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "West Ham", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 31, "home_team": "Wolverhampton Wanderers", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Arsenal", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Aston Villa", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Brentford", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Everton", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Leicester", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Manchester City", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Newcastle United", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Norwich", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Southampton", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 32, "home_team": "Watford", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Aston Villa", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Everton", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Leeds", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Manchester United", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Newcastle United", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Southampton", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Tottenham", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Watford", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "West Ham", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 33, "home_team": "Wolverhampton Wanderers", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Arsenal", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Brentford", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Brighton", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Burnley", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Chelsea", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Crystal Palace", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Leicester", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Liverpool", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Manchester City", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 34, "home_team": "Norwich", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Aston Villa", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Everton", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Leeds", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Manchester United", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Newcastle United", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Southampton", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Tottenham", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Watford", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "West Ham", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 35, "home_team": "Wolverhampton Wanderers", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Arsenal", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Brentford", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Brighton", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Burnley", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Chelsea", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Crystal Palace", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Leicester", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Liverpool", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Manchester City", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 36, "home_team": "Norwich", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Aston Villa", "away_team": "Crystal Palace", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Everton", "away_team": "Brentford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Leeds", "away_team": "Brighton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Manchester United", "away_team": "Chelsea", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Newcastle United", "away_team": "Arsenal", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Southampton", "away_team": "Liverpool", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Tottenham", "away_team": "Burnley", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Watford", "away_team": "Leicester", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "West Ham", "away_team": "Manchester City", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 37, "home_team": "Wolverhampton Wanderers", "away_team": "Norwich", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Arsenal", "away_team": "Everton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Brentford", "away_team": "Leeds", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Brighton", "away_team": "West Ham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Burnley", "away_team": "Newcastle United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Chelsea", "away_team": "Watford", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Crystal Palace", "away_team": "Manchester United", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Leicester", "away_team": "Southampton", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Liverpool", "away_team": "Wolverhampton Wanderers", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Manchester City", "away_team": "Aston Villa", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}, {"gw": 38, "home_team": "Norwich", "away_team": "Tottenham", "home_xG": null, "away_xG": null, "home_xP": null, "away_xP": null}]
+[
+  {
+    "gw": 1,
+    "home_team": "Brentford",
+    "away_team": "Arsenal",
+    "home_xG": "1.88818",
+    "away_xG": "1.02385",
+    "home_xP": 2.1154,
+    "away_xP": 0.6559
+  },
+  {
+    "gw": 1,
+    "home_team": "Manchester United",
+    "away_team": "Leeds",
+    "home_xG": "1.64248",
+    "away_xG": "0.568342",
+    "home_xP": 2.2181,
+    "away_xP": 0.5492
+  },
+  {
+    "gw": 1,
+    "home_team": "Burnley",
+    "away_team": "Brighton",
+    "home_xG": "1.79548",
+    "away_xG": "1.6853",
+    "home_xP": 1.4559000000000002,
+    "away_xP": 1.2564000000000002
+  },
+  {
+    "gw": 1,
+    "home_team": "Chelsea",
+    "away_team": "Crystal Palace",
+    "home_xG": "1.18709",
+    "away_xG": "0.321701",
+    "home_xP": 2.2037,
+    "away_xP": 0.5141
+  },
+  {
+    "gw": 1,
+    "home_team": "Everton",
+    "away_team": "Southampton",
+    "home_xG": "2.38863",
+    "away_xG": "0.580601",
+    "home_xP": 2.6311,
+    "away_xP": 0.2455
+  },
+  {
+    "gw": 1,
+    "home_team": "Leicester",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": "0.668082",
+    "away_xG": "1.32714",
+    "home_xP": 0.7799,
+    "away_xP": 1.9451
+  },
+  {
+    "gw": 1,
+    "home_team": "Watford",
+    "away_team": "Aston Villa",
+    "home_xG": "1.35036",
+    "away_xG": "1.13718",
+    "home_xP": 1.4836,
+    "away_xP": 1.1959
+  },
+  {
+    "gw": 1,
+    "home_team": "Norwich",
+    "away_team": "Liverpool",
+    "home_xG": "1.3333",
+    "away_xG": "1.78728",
+    "home_xP": 1.0334999999999999,
+    "away_xP": 1.7064
+  },
+  {
+    "gw": 1,
+    "home_team": "Newcastle United",
+    "away_team": "West Ham",
+    "home_xG": "1.67926",
+    "away_xG": "3.00939",
+    "home_xP": 0.5491,
+    "away_xP": 2.2684
+  },
+  {
+    "gw": 1,
+    "home_team": "Tottenham",
+    "away_team": "Manchester City",
+    "home_xG": "1.06014",
+    "away_xG": "2.10585",
+    "home_xP": 0.6512,
+    "away_xP": 2.1266000000000003
+  },
+  {
+    "gw": 2,
+    "home_team": "Liverpool",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Aston Villa",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Crystal Palace",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Leeds",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Manchester City",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Brighton",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Southampton",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 2,
+    "home_team": "West Ham",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Manchester City",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Aston Villa",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Brighton",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Newcastle United",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Norwich",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "West Ham",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Liverpool",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Burnley",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Tottenham",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 3,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Crystal Palace",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Arsenal",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Brentford",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Leicester",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Manchester United",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Southampton",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Watford",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Chelsea",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Leeds",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 4,
+    "home_team": "Everton",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Newcastle United",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Burnley",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Liverpool",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Manchester City",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Norwich",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Aston Villa",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Brighton",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "West Ham",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 5,
+    "home_team": "Tottenham",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Chelsea",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Everton",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Leeds",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Leicester",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Manchester United",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Watford",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Brentford",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Southampton",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Arsenal",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 6,
+    "home_team": "Crystal Palace",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Manchester United",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Burnley",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Chelsea",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Leeds",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Tottenham",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Brighton",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Crystal Palace",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "West Ham",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 7,
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Watford",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Aston Villa",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Leicester",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Manchester City",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Norwich",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Southampton",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Brentford",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Everton",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Newcastle United",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 8,
+    "home_team": "Arsenal",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Arsenal",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Chelsea",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Crystal Palace",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Everton",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Leeds",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Southampton",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Brighton",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Brentford",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "West Ham",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 9,
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Leicester",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Burnley",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Liverpool",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Manchester City",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Newcastle United",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Watford",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Tottenham",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Norwich",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 10,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Arsenal",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Brentford",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Brighton",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Chelsea",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Crystal Palace",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Everton",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Leeds",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Manchester United",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "Southampton",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 11,
+    "home_team": "West Ham",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Aston Villa",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Burnley",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Leicester",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Liverpool",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Manchester City",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Newcastle United",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Norwich",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Tottenham",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Watford",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 12,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Arsenal",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Brentford",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Brighton",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Burnley",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Crystal Palace",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Leicester",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Liverpool",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Manchester City",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 13,
+    "home_team": "Norwich",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Aston Villa",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Everton",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Leeds",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Watford",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "West Ham",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Manchester United",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Newcastle United",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Southampton",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 14,
+    "home_team": "Tottenham",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Aston Villa",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Leeds",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Manchester United",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Newcastle United",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Southampton",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Tottenham",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Watford",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "West Ham",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 15,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Arsenal",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Brentford",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Brighton",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Burnley",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Chelsea",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Crystal Palace",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Leicester",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Liverpool",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Manchester City",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 16,
+    "home_team": "Norwich",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Arsenal",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Brentford",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Brighton",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Burnley",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Leicester",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Norwich",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Crystal Palace",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Chelsea",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Liverpool",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 17,
+    "home_team": "Manchester City",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Aston Villa",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Everton",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Leeds",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Manchester United",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Newcastle United",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Southampton",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Tottenham",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Watford",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "West Ham",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 18,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Aston Villa",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Brighton",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Burnley",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Liverpool",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Manchester City",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Newcastle United",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Norwich",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Tottenham",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "West Ham",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 19,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Arsenal",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Brentford",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Chelsea",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Crystal Palace",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Everton",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Leeds",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Leicester",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Manchester United",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Southampton",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 20,
+    "home_team": "Watford",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Arsenal",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Brentford",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Chelsea",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Crystal Palace",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Everton",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Leeds",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Leicester",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Manchester United",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Southampton",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 21,
+    "home_team": "Watford",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Aston Villa",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Brighton",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Burnley",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Liverpool",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Manchester City",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Newcastle United",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Norwich",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Tottenham",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "West Ham",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 22,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Arsenal",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Brentford",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Chelsea",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Crystal Palace",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Everton",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Leeds",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Leicester",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Manchester United",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Southampton",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 23,
+    "home_team": "Watford",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Aston Villa",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Brighton",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Burnley",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Norwich",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "West Ham",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Newcastle United",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Tottenham",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Liverpool",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 24,
+    "home_team": "Manchester City",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Brentford",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Burnley",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Chelsea",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Everton",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Leicester",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Manchester United",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Newcastle United",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Norwich",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Tottenham",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 25,
+    "home_team": "Watford",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Arsenal",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Aston Villa",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Brighton",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Crystal Palace",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Leeds",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Liverpool",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Southampton",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "West Ham",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 26,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Arsenal",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Brentford",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Brighton",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Chelsea",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Crystal Palace",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Everton",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Leeds",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Manchester United",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "Southampton",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 27,
+    "home_team": "West Ham",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Aston Villa",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Burnley",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Leicester",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Liverpool",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Manchester City",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Newcastle United",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Norwich",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Tottenham",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Watford",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 28,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Arsenal",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Brentford",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Brighton",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Chelsea",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Crystal Palace",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Everton",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Leeds",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Manchester United",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "Southampton",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 29,
+    "home_team": "West Ham",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Aston Villa",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Burnley",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Leicester",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Liverpool",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Manchester City",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Newcastle United",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Norwich",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Tottenham",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Watford",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 30,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Brighton",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Burnley",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Chelsea",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Crystal Palace",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Leeds",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Liverpool",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Manchester United",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Tottenham",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 31,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Arsenal",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Aston Villa",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Brentford",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Everton",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Leicester",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Manchester City",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Newcastle United",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Norwich",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Southampton",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 32,
+    "home_team": "Watford",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Aston Villa",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Everton",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Leeds",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Manchester United",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Newcastle United",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Southampton",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Tottenham",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Watford",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "West Ham",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 33,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Arsenal",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Brentford",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Brighton",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Burnley",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Chelsea",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Crystal Palace",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Leicester",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Liverpool",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Manchester City",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 34,
+    "home_team": "Norwich",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Aston Villa",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Everton",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Leeds",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Manchester United",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Newcastle United",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Southampton",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Tottenham",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Watford",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "West Ham",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 35,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Arsenal",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Brentford",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Brighton",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Burnley",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Chelsea",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Crystal Palace",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Leicester",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Liverpool",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Manchester City",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 36,
+    "home_team": "Norwich",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Aston Villa",
+    "away_team": "Crystal Palace",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Everton",
+    "away_team": "Brentford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Leeds",
+    "away_team": "Brighton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Manchester United",
+    "away_team": "Chelsea",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Newcastle United",
+    "away_team": "Arsenal",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Southampton",
+    "away_team": "Liverpool",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Tottenham",
+    "away_team": "Burnley",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Watford",
+    "away_team": "Leicester",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "West Ham",
+    "away_team": "Manchester City",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 37,
+    "home_team": "Wolverhampton Wanderers",
+    "away_team": "Norwich",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Arsenal",
+    "away_team": "Everton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Brentford",
+    "away_team": "Leeds",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Brighton",
+    "away_team": "West Ham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Burnley",
+    "away_team": "Newcastle United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Chelsea",
+    "away_team": "Watford",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Crystal Palace",
+    "away_team": "Manchester United",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Leicester",
+    "away_team": "Southampton",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Liverpool",
+    "away_team": "Wolverhampton Wanderers",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Manchester City",
+    "away_team": "Aston Villa",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  },
+  {
+    "gw": 38,
+    "home_team": "Norwich",
+    "away_team": "Tottenham",
+    "home_xG": null,
+    "away_xG": null,
+    "home_xP": null,
+    "away_xP": null
+  }
+]

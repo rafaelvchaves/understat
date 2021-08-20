@@ -1,1 +1,662 @@
-{"138": {"id": "138", "title": "Sevilla", "history": [{"h_a": "h", "xG": 3.67402, "xGA": 0.484078, "npxG": 2.93074, "npxGA": 0.484078, "ppda": {"att": 128, "def": 22}, "ppda_allowed": {"att": 462, "def": 14}, "deep": 10, "deep_allowed": 0, "scored": 3, "missed": 0, "xpts": 2.942, "result": "w", "date": "2021-08-15 20:15:00", "wins": 1, "draws": 0, "loses": 0, "pts": 3, "npxGD": 2.446662}]}, "140": {"id": "140", "title": "Real Sociedad", "history": [{"h_a": "a", "xG": 0.902312, "xGA": 3.46484, "npxG": 0.902312, "npxGA": 3.46484, "ppda": {"att": 324, "def": 27}, "ppda_allowed": {"att": 192, "def": 28}, "deep": 3, "deep_allowed": 7, "scored": 2, "missed": 4, "xpts": 0.1226, "result": "l", "date": "2021-08-15 18:00:00", "wins": 0, "draws": 0, "loses": 1, "pts": 0, "npxGD": -2.5625280000000004}]}, "141": {"id": "141", "title": "Espanyol", "history": [{"h_a": "a", "xG": 0.583698, "xGA": 0.579404, "npxG": 0.583698, "npxGA": 0.579404, "ppda": {"att": 144, "def": 20}, "ppda_allowed": {"att": 186, "def": 37}, "deep": 0, "deep_allowed": 11, "scored": 0, "missed": 0, "xpts": 1.2668, "result": "d", "date": "2021-08-14 20:00:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": 0.00429400000000002}]}, "142": {"id": "142", "title": "Getafe", "history": [{"h_a": "a", "xG": 1.19326, "xGA": 1.57861, "npxG": 1.19326, "npxGA": 0.835327, "ppda": {"att": 71, "def": 16}, "ppda_allowed": {"att": 203, "def": 20}, "deep": 12, "deep_allowed": 1, "scored": 0, "missed": 1, "xpts": 0.9923000000000001, "result": "l", "date": "2021-08-13 19:00:00", "wins": 0, "draws": 0, "loses": 1, "pts": 0, "npxGD": 0.35793299999999995}]}, "143": {"id": "143", "title": "Atletico Madrid", "history": [{"h_a": "a", "xG": 1.805, "xGA": 1.59399, "npxG": 1.805, "npxGA": 0.850713, "ppda": {"att": 299, "def": 19}, "ppda_allowed": {"att": 264, "def": 36}, "deep": 3, "deep_allowed": 4, "scored": 2, "missed": 1, "xpts": 1.5243000000000002, "result": "w", "date": "2021-08-15 15:30:00", "wins": 1, "draws": 0, "loses": 0, "pts": 3, "npxGD": 0.9542869999999999}]}, "145": {"id": "145", "title": "Rayo Vallecano", "history": [{"h_a": "a", "xG": 0.484078, "xGA": 3.67402, "npxG": 0.484078, "npxGA": 2.93074, "ppda": {"att": 462, "def": 14}, "ppda_allowed": {"att": 128, "def": 22}, "deep": 0, "deep_allowed": 10, "scored": 0, "missed": 3, "xpts": 0.035, "result": "l", "date": "2021-08-15 20:15:00", "wins": 0, "draws": 0, "loses": 1, "pts": 0, "npxGD": -2.446662}]}, "146": {"id": "146", "title": "Valencia", "history": [{"h_a": "h", "xG": 1.57861, "xGA": 1.19326, "npxG": 0.835327, "npxGA": 1.19326, "ppda": {"att": 203, "def": 20}, "ppda_allowed": {"att": 71, "def": 16}, "deep": 1, "deep_allowed": 12, "scored": 1, "missed": 0, "xpts": 1.7477, "result": "w", "date": "2021-08-13 19:00:00", "wins": 1, "draws": 0, "loses": 0, "pts": 3, "npxGD": -0.35793299999999995}]}, "147": {"id": "147", "title": "Athletic Club", "history": [{"h_a": "a", "xG": 0.634866, "xGA": 0.933565, "npxG": 0.634866, "npxGA": 0.933565, "ppda": {"att": 239, "def": 29}, "ppda_allowed": {"att": 182, "def": 15}, "deep": 4, "deep_allowed": 4, "scored": 0, "missed": 0, "xpts": 0.9474, "result": "d", "date": "2021-08-16 20:00:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": -0.29869899999999994}]}, "148": {"id": "148", "title": "Barcelona", "history": [{"h_a": "h", "xG": 3.46484, "xGA": 0.902312, "npxG": 3.46484, "npxGA": 0.902312, "ppda": {"att": 192, "def": 28}, "ppda_allowed": {"att": 324, "def": 27}, "deep": 7, "deep_allowed": 3, "scored": 4, "missed": 2, "xpts": 2.8178, "result": "w", "date": "2021-08-15 18:00:00", "wins": 1, "draws": 0, "loses": 0, "pts": 3, "npxGD": 2.5625280000000004}]}, "150": {"id": "150", "title": "Real Madrid", "history": [{"h_a": "a", "xG": 2.15551, "xGA": 1.41097, "npxG": 2.15551, "npxGA": 0.667695, "ppda": {"att": 250, "def": 20}, "ppda_allowed": {"att": 331, "def": 22}, "deep": 17, "deep_allowed": 2, "scored": 4, "missed": 1, "xpts": 1.9244, "result": "w", "date": "2021-08-14 20:00:00", "wins": 1, "draws": 0, "loses": 0, "pts": 3, "npxGD": 1.4878149999999999}]}, "151": {"id": "151", "title": "Levante", "history": [{"h_a": "a", "xG": 0.915954, "xGA": 0.993589, "npxG": 0.915954, "npxGA": 0.993589, "ppda": {"att": 153, "def": 21}, "ppda_allowed": {"att": 279, "def": 16}, "deep": 3, "deep_allowed": 2, "scored": 1, "missed": 1, "xpts": 1.2308000000000001, "result": "d", "date": "2021-08-14 17:30:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": -0.07763500000000001}]}, "152": {"id": "152", "title": "Celta Vigo", "history": [{"h_a": "h", "xG": 1.59399, "xGA": 1.805, "npxG": 0.850713, "npxGA": 1.805, "ppda": {"att": 264, "def": 36}, "ppda_allowed": {"att": 299, "def": 19}, "deep": 4, "deep_allowed": 3, "scored": 1, "missed": 2, "xpts": 1.1802000000000001, "result": "l", "date": "2021-08-15 15:30:00", "wins": 0, "draws": 0, "loses": 1, "pts": 0, "npxGD": -0.9542869999999999}]}, "153": {"id": "153", "title": "Real Betis", "history": [{"h_a": "a", "xG": 0.814085, "xGA": 0.569578, "npxG": 0.814085, "npxGA": 0.569578, "ppda": {"att": 168, "def": 25}, "ppda_allowed": {"att": 337, "def": 18}, "deep": 11, "deep_allowed": 1, "scored": 1, "missed": 1, "xpts": 1.5589, "result": "d", "date": "2021-08-14 17:30:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": 0.24450699999999992}]}, "154": {"id": "154", "title": "Villarreal", "history": [{"h_a": "h", "xG": 1.21791, "xGA": 0.246735, "npxG": 1.21791, "npxGA": 0.246735, "ppda": {"att": 159, "def": 37}, "ppda_allowed": {"att": 285, "def": 31}, "deep": 7, "deep_allowed": 3, "scored": 0, "missed": 0, "xpts": 2.2371999999999996, "result": "d", "date": "2021-08-16 18:00:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": 0.971175}]}, "155": {"id": "155", "title": "Granada", "history": [{"h_a": "a", "xG": 0.246735, "xGA": 1.21791, "npxG": 0.246735, "npxGA": 1.21791, "ppda": {"att": 285, "def": 31}, "ppda_allowed": {"att": 159, "def": 37}, "deep": 3, "deep_allowed": 7, "scored": 0, "missed": 0, "xpts": 0.4804, "result": "d", "date": "2021-08-16 18:00:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": -0.971175}]}, "157": {"id": "157", "title": "Osasuna", "history": [{"h_a": "h", "xG": 0.579404, "xGA": 0.583698, "npxG": 0.579404, "npxGA": 0.583698, "ppda": {"att": 186, "def": 37}, "ppda_allowed": {"att": 144, "def": 20}, "deep": 11, "deep_allowed": 0, "scored": 0, "missed": 0, "xpts": 1.3114999999999999, "result": "d", "date": "2021-08-14 20:00:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": -0.00429400000000002}]}, "158": {"id": "158", "title": "Alaves", "history": [{"h_a": "h", "xG": 1.41097, "xGA": 2.15551, "npxG": 0.667695, "npxGA": 2.15551, "ppda": {"att": 331, "def": 22}, "ppda_allowed": {"att": 250, "def": 20}, "deep": 2, "deep_allowed": 17, "scored": 1, "missed": 4, "xpts": 0.8353999999999999, "result": "l", "date": "2021-08-14 20:00:00", "wins": 0, "draws": 0, "loses": 1, "pts": 0, "npxGD": -1.4878149999999999}]}, "207": {"id": "207", "title": "Elche", "history": [{"h_a": "h", "xG": 0.933565, "xGA": 0.634866, "npxG": 0.933565, "npxGA": 0.634866, "ppda": {"att": 182, "def": 15}, "ppda_allowed": {"att": 239, "def": 29}, "deep": 4, "deep_allowed": 4, "scored": 0, "missed": 0, "xpts": 1.6812, "result": "d", "date": "2021-08-16 20:00:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": 0.29869899999999994}]}, "239": {"id": "239", "title": "Mallorca", "history": [{"h_a": "h", "xG": 0.569578, "xGA": 0.814085, "npxG": 0.569578, "npxGA": 0.814085, "ppda": {"att": 337, "def": 18}, "ppda_allowed": {"att": 168, "def": 25}, "deep": 1, "deep_allowed": 11, "scored": 1, "missed": 1, "xpts": 1.0585, "result": "d", "date": "2021-08-14 17:30:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": -0.24450699999999992}]}, "261": {"id": "261", "title": "Cadiz", "history": [{"h_a": "h", "xG": 0.993589, "xGA": 0.915954, "npxG": 0.993589, "npxGA": 0.915954, "ppda": {"att": 279, "def": 16}, "ppda_allowed": {"att": 153, "def": 21}, "deep": 2, "deep_allowed": 3, "scored": 1, "missed": 1, "xpts": 1.433, "result": "d", "date": "2021-08-14 17:30:00", "wins": 0, "draws": 1, "loses": 0, "pts": 1, "npxGD": 0.07763500000000001}]}}
+{
+  "138": {
+    "id": "138",
+    "title": "Sevilla",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 3.67402,
+        "xGA": 0.484078,
+        "npxG": 2.93074,
+        "npxGA": 0.484078,
+        "ppda": {
+          "att": 128,
+          "def": 22
+        },
+        "ppda_allowed": {
+          "att": 462,
+          "def": 14
+        },
+        "deep": 10,
+        "deep_allowed": 0,
+        "scored": 3,
+        "missed": 0,
+        "xpts": 2.942,
+        "result": "w",
+        "date": "2021-08-15 20:15:00",
+        "wins": 1,
+        "draws": 0,
+        "loses": 0,
+        "pts": 3,
+        "npxGD": 2.446662
+      }
+    ]
+  },
+  "140": {
+    "id": "140",
+    "title": "Real Sociedad",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 0.902312,
+        "xGA": 3.46484,
+        "npxG": 0.902312,
+        "npxGA": 3.46484,
+        "ppda": {
+          "att": 324,
+          "def": 27
+        },
+        "ppda_allowed": {
+          "att": 192,
+          "def": 28
+        },
+        "deep": 3,
+        "deep_allowed": 7,
+        "scored": 2,
+        "missed": 4,
+        "xpts": 0.1226,
+        "result": "l",
+        "date": "2021-08-15 18:00:00",
+        "wins": 0,
+        "draws": 0,
+        "loses": 1,
+        "pts": 0,
+        "npxGD": -2.5625280000000004
+      }
+    ]
+  },
+  "141": {
+    "id": "141",
+    "title": "Espanyol",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 0.583698,
+        "xGA": 0.579404,
+        "npxG": 0.583698,
+        "npxGA": 0.579404,
+        "ppda": {
+          "att": 144,
+          "def": 20
+        },
+        "ppda_allowed": {
+          "att": 186,
+          "def": 37
+        },
+        "deep": 0,
+        "deep_allowed": 11,
+        "scored": 0,
+        "missed": 0,
+        "xpts": 1.2668,
+        "result": "d",
+        "date": "2021-08-14 20:00:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": 0.00429400000000002
+      }
+    ]
+  },
+  "142": {
+    "id": "142",
+    "title": "Getafe",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 1.19326,
+        "xGA": 1.57861,
+        "npxG": 1.19326,
+        "npxGA": 0.835327,
+        "ppda": {
+          "att": 71,
+          "def": 16
+        },
+        "ppda_allowed": {
+          "att": 203,
+          "def": 20
+        },
+        "deep": 12,
+        "deep_allowed": 1,
+        "scored": 0,
+        "missed": 1,
+        "xpts": 0.9923000000000001,
+        "result": "l",
+        "date": "2021-08-13 19:00:00",
+        "wins": 0,
+        "draws": 0,
+        "loses": 1,
+        "pts": 0,
+        "npxGD": 0.35793299999999995
+      }
+    ]
+  },
+  "143": {
+    "id": "143",
+    "title": "Atletico Madrid",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 1.805,
+        "xGA": 1.59399,
+        "npxG": 1.805,
+        "npxGA": 0.850713,
+        "ppda": {
+          "att": 299,
+          "def": 19
+        },
+        "ppda_allowed": {
+          "att": 264,
+          "def": 36
+        },
+        "deep": 3,
+        "deep_allowed": 4,
+        "scored": 2,
+        "missed": 1,
+        "xpts": 1.5243000000000002,
+        "result": "w",
+        "date": "2021-08-15 15:30:00",
+        "wins": 1,
+        "draws": 0,
+        "loses": 0,
+        "pts": 3,
+        "npxGD": 0.9542869999999999
+      }
+    ]
+  },
+  "145": {
+    "id": "145",
+    "title": "Rayo Vallecano",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 0.484078,
+        "xGA": 3.67402,
+        "npxG": 0.484078,
+        "npxGA": 2.93074,
+        "ppda": {
+          "att": 462,
+          "def": 14
+        },
+        "ppda_allowed": {
+          "att": 128,
+          "def": 22
+        },
+        "deep": 0,
+        "deep_allowed": 10,
+        "scored": 0,
+        "missed": 3,
+        "xpts": 0.035,
+        "result": "l",
+        "date": "2021-08-15 20:15:00",
+        "wins": 0,
+        "draws": 0,
+        "loses": 1,
+        "pts": 0,
+        "npxGD": -2.446662
+      }
+    ]
+  },
+  "146": {
+    "id": "146",
+    "title": "Valencia",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 1.57861,
+        "xGA": 1.19326,
+        "npxG": 0.835327,
+        "npxGA": 1.19326,
+        "ppda": {
+          "att": 203,
+          "def": 20
+        },
+        "ppda_allowed": {
+          "att": 71,
+          "def": 16
+        },
+        "deep": 1,
+        "deep_allowed": 12,
+        "scored": 1,
+        "missed": 0,
+        "xpts": 1.7477,
+        "result": "w",
+        "date": "2021-08-13 19:00:00",
+        "wins": 1,
+        "draws": 0,
+        "loses": 0,
+        "pts": 3,
+        "npxGD": -0.35793299999999995
+      }
+    ]
+  },
+  "147": {
+    "id": "147",
+    "title": "Athletic Club",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 0.634866,
+        "xGA": 0.933565,
+        "npxG": 0.634866,
+        "npxGA": 0.933565,
+        "ppda": {
+          "att": 239,
+          "def": 29
+        },
+        "ppda_allowed": {
+          "att": 182,
+          "def": 15
+        },
+        "deep": 4,
+        "deep_allowed": 4,
+        "scored": 0,
+        "missed": 0,
+        "xpts": 0.9474,
+        "result": "d",
+        "date": "2021-08-16 20:00:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": -0.29869899999999994
+      }
+    ]
+  },
+  "148": {
+    "id": "148",
+    "title": "Barcelona",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 3.46484,
+        "xGA": 0.902312,
+        "npxG": 3.46484,
+        "npxGA": 0.902312,
+        "ppda": {
+          "att": 192,
+          "def": 28
+        },
+        "ppda_allowed": {
+          "att": 324,
+          "def": 27
+        },
+        "deep": 7,
+        "deep_allowed": 3,
+        "scored": 4,
+        "missed": 2,
+        "xpts": 2.8178,
+        "result": "w",
+        "date": "2021-08-15 18:00:00",
+        "wins": 1,
+        "draws": 0,
+        "loses": 0,
+        "pts": 3,
+        "npxGD": 2.5625280000000004
+      }
+    ]
+  },
+  "150": {
+    "id": "150",
+    "title": "Real Madrid",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 2.15551,
+        "xGA": 1.41097,
+        "npxG": 2.15551,
+        "npxGA": 0.667695,
+        "ppda": {
+          "att": 250,
+          "def": 20
+        },
+        "ppda_allowed": {
+          "att": 331,
+          "def": 22
+        },
+        "deep": 17,
+        "deep_allowed": 2,
+        "scored": 4,
+        "missed": 1,
+        "xpts": 1.9244,
+        "result": "w",
+        "date": "2021-08-14 20:00:00",
+        "wins": 1,
+        "draws": 0,
+        "loses": 0,
+        "pts": 3,
+        "npxGD": 1.4878149999999999
+      }
+    ]
+  },
+  "151": {
+    "id": "151",
+    "title": "Levante",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 0.915954,
+        "xGA": 0.993589,
+        "npxG": 0.915954,
+        "npxGA": 0.993589,
+        "ppda": {
+          "att": 153,
+          "def": 21
+        },
+        "ppda_allowed": {
+          "att": 279,
+          "def": 16
+        },
+        "deep": 3,
+        "deep_allowed": 2,
+        "scored": 1,
+        "missed": 1,
+        "xpts": 1.2308000000000001,
+        "result": "d",
+        "date": "2021-08-14 17:30:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": -0.07763500000000001
+      }
+    ]
+  },
+  "152": {
+    "id": "152",
+    "title": "Celta Vigo",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 1.59399,
+        "xGA": 1.805,
+        "npxG": 0.850713,
+        "npxGA": 1.805,
+        "ppda": {
+          "att": 264,
+          "def": 36
+        },
+        "ppda_allowed": {
+          "att": 299,
+          "def": 19
+        },
+        "deep": 4,
+        "deep_allowed": 3,
+        "scored": 1,
+        "missed": 2,
+        "xpts": 1.1802000000000001,
+        "result": "l",
+        "date": "2021-08-15 15:30:00",
+        "wins": 0,
+        "draws": 0,
+        "loses": 1,
+        "pts": 0,
+        "npxGD": -0.9542869999999999
+      }
+    ]
+  },
+  "153": {
+    "id": "153",
+    "title": "Real Betis",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 0.814085,
+        "xGA": 0.569578,
+        "npxG": 0.814085,
+        "npxGA": 0.569578,
+        "ppda": {
+          "att": 168,
+          "def": 25
+        },
+        "ppda_allowed": {
+          "att": 337,
+          "def": 18
+        },
+        "deep": 11,
+        "deep_allowed": 1,
+        "scored": 1,
+        "missed": 1,
+        "xpts": 1.5589,
+        "result": "d",
+        "date": "2021-08-14 17:30:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": 0.24450699999999992
+      }
+    ]
+  },
+  "154": {
+    "id": "154",
+    "title": "Villarreal",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 1.21791,
+        "xGA": 0.246735,
+        "npxG": 1.21791,
+        "npxGA": 0.246735,
+        "ppda": {
+          "att": 159,
+          "def": 37
+        },
+        "ppda_allowed": {
+          "att": 285,
+          "def": 31
+        },
+        "deep": 7,
+        "deep_allowed": 3,
+        "scored": 0,
+        "missed": 0,
+        "xpts": 2.2371999999999996,
+        "result": "d",
+        "date": "2021-08-16 18:00:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": 0.971175
+      }
+    ]
+  },
+  "155": {
+    "id": "155",
+    "title": "Granada",
+    "history": [
+      {
+        "h_a": "a",
+        "xG": 0.246735,
+        "xGA": 1.21791,
+        "npxG": 0.246735,
+        "npxGA": 1.21791,
+        "ppda": {
+          "att": 285,
+          "def": 31
+        },
+        "ppda_allowed": {
+          "att": 159,
+          "def": 37
+        },
+        "deep": 3,
+        "deep_allowed": 7,
+        "scored": 0,
+        "missed": 0,
+        "xpts": 0.4804,
+        "result": "d",
+        "date": "2021-08-16 18:00:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": -0.971175
+      }
+    ]
+  },
+  "157": {
+    "id": "157",
+    "title": "Osasuna",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 0.579404,
+        "xGA": 0.583698,
+        "npxG": 0.579404,
+        "npxGA": 0.583698,
+        "ppda": {
+          "att": 186,
+          "def": 37
+        },
+        "ppda_allowed": {
+          "att": 144,
+          "def": 20
+        },
+        "deep": 11,
+        "deep_allowed": 0,
+        "scored": 0,
+        "missed": 0,
+        "xpts": 1.3114999999999999,
+        "result": "d",
+        "date": "2021-08-14 20:00:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": -0.00429400000000002
+      }
+    ]
+  },
+  "158": {
+    "id": "158",
+    "title": "Alaves",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 1.41097,
+        "xGA": 2.15551,
+        "npxG": 0.667695,
+        "npxGA": 2.15551,
+        "ppda": {
+          "att": 331,
+          "def": 22
+        },
+        "ppda_allowed": {
+          "att": 250,
+          "def": 20
+        },
+        "deep": 2,
+        "deep_allowed": 17,
+        "scored": 1,
+        "missed": 4,
+        "xpts": 0.8353999999999999,
+        "result": "l",
+        "date": "2021-08-14 20:00:00",
+        "wins": 0,
+        "draws": 0,
+        "loses": 1,
+        "pts": 0,
+        "npxGD": -1.4878149999999999
+      }
+    ]
+  },
+  "207": {
+    "id": "207",
+    "title": "Elche",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 0.933565,
+        "xGA": 0.634866,
+        "npxG": 0.933565,
+        "npxGA": 0.634866,
+        "ppda": {
+          "att": 182,
+          "def": 15
+        },
+        "ppda_allowed": {
+          "att": 239,
+          "def": 29
+        },
+        "deep": 4,
+        "deep_allowed": 4,
+        "scored": 0,
+        "missed": 0,
+        "xpts": 1.6812,
+        "result": "d",
+        "date": "2021-08-16 20:00:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": 0.29869899999999994
+      }
+    ]
+  },
+  "239": {
+    "id": "239",
+    "title": "Mallorca",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 0.569578,
+        "xGA": 0.814085,
+        "npxG": 0.569578,
+        "npxGA": 0.814085,
+        "ppda": {
+          "att": 337,
+          "def": 18
+        },
+        "ppda_allowed": {
+          "att": 168,
+          "def": 25
+        },
+        "deep": 1,
+        "deep_allowed": 11,
+        "scored": 1,
+        "missed": 1,
+        "xpts": 1.0585,
+        "result": "d",
+        "date": "2021-08-14 17:30:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": -0.24450699999999992
+      }
+    ]
+  },
+  "261": {
+    "id": "261",
+    "title": "Cadiz",
+    "history": [
+      {
+        "h_a": "h",
+        "xG": 0.993589,
+        "xGA": 0.915954,
+        "npxG": 0.993589,
+        "npxGA": 0.915954,
+        "ppda": {
+          "att": 279,
+          "def": 16
+        },
+        "ppda_allowed": {
+          "att": 153,
+          "def": 21
+        },
+        "deep": 2,
+        "deep_allowed": 3,
+        "scored": 1,
+        "missed": 1,
+        "xpts": 1.433,
+        "result": "d",
+        "date": "2021-08-14 17:30:00",
+        "wins": 0,
+        "draws": 1,
+        "loses": 0,
+        "pts": 1,
+        "npxGD": 0.07763500000000001
+      }
+    ]
+  }
+}
